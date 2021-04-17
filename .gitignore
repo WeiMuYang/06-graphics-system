@@ -1,32 +1,37 @@
+04-repo/
+01-book/
+
+# 一些目录
 # Prerequisites
 *.d
-
 # Compiled Object files
 *.slo
 *.lo
+# Prerequisites
+*.d
+# Object files
 *.o
-*.obj
+*.ko
+# Makefile files  
+Makefile*
+# 大于100M 
+*-big.*
+# 私有不更新
+*-pvt.*
+*人名*
+# 压缩文件
+*.zip
+*.rar
+*.7z
 
-# Precompiled Headers
-*.gch
-*.pch
+*.pdf
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+/icons/
+*.svg 
 
-# Fortran module files
-*.mod
-*.smod
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# 未完成 not finished
+*-nf.*
+*/-nf/
+00-Project-ign/
 
-# Executables
-*.exe
-*.out
-*.app
