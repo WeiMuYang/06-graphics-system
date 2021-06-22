@@ -17,7 +17,7 @@ if "%ThISHOUR01%" == " "  (
 set ThISTIME=%ThISHOUR01%%TIMEINTERAL%%TIME:~3,2%%TIMEINTERAL%%TIME:~6,2%
 :: 4 组合后的日期时间串
 set ThISDATETIME=%THISDATE%%SPACE%%ThISTIME%
-set RESULT=%ThISDATETIME%%SPACE%%GMT%
+set RESULT=%ThISDATETIME%
 git add .
 git commit -m %RESULT%
 git push
