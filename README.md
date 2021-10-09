@@ -1,4 +1,4 @@
-# [图形系统学](./)<br>[Study](./01-study)     [img](./01-study/img)   [code](./02-code)    [repo](./03-repo)         
+# [图形系统学](./)  <br>[Study](./01-study)     [img](./01-study/img)   [code](./02-code)    [repo](./03-repo)         
 
 >###   1  <a href="#Wlroots">Wlroots</a>  ：Wlroots以及新窗管相关的文档整理，架构，API实现等。
 >
@@ -8,9 +8,9 @@
 >
 >### 4 <a href="#Graphics">Graphics</a> ：计算机图形学相关内容，CPU和GPU的工作原理，图形处理底层实现。
 
-##### _tips:_
+##### _tips:_  
 
-以**OpenGL学习官网**  ，为学习主线，OpenGL编程指南作为学习的一个进阶 。
+以**OpenGL学习官网**  ，为学习主线，OpenGL编程指南作为学习的一个进阶 。 
 
 1. 以OpenGL为主，最终的方向是Vulkan   
 2. 为了UOS的操作系统底层驱动    
@@ -37,12 +37,13 @@
 
 #### 1.2  <a name="OpenGL"></a>[OpenGL书籍](./00-book/02-opengl)   
 
-序号|本地位置|书籍|代码
-:-:|:-:|-|-
+序号|本地位置|书籍|备注/代码
+:-:|:-:|-|:-:
 1|[学习官网](./00-book/02-opengl/01-OpenGL-official-website)|[OpenGL学习官网-英文](https://learnopengl.com/)<br>[OpenGL学习官网-中文](https://learnopengl-cn.github.io/intro/)  |[OpenGL学习官网-code-远程](https://github.com/JoeyDeVries/LearnOpenGL)<br>[OpenGL学习官网-code-本地](./00-book/02-opengl/01-OpenGL-official-website/code/LearnOpenGL)
 2|[编程指南](./00-book/02-opengl/03-OpenGL-programming-guide-9th)|[OpenGL编程指南-中文-第8版](./00-book/02-opengl/03-OpenGL-programming-guide-9th/01-OpenGL编程指南(第8版).pdf)|[OpenGL编程指南](./00-book/02-opengl/03-OpenGL-programming-guide-9th/code)
 3|[OpenGL教程](./00-book/02-opengl/02-OpenGL-tutorial)|[OpenGL教程-OpenGL-Tutorial](http://www.opengl-tutorial.org/cn/beginners-tutorials/tutorial-1-opening-a-window/)|[OpenGL教程-code-远程](https://codeload.github.com/opengl-tutorials/ogl/zip/master)<br>[OpenGL教程-code-本地](./00-book/02-opengl/02-OpenGL-tutorial/code)  
 4|[OpenGL着色语言](./00-book/02-opengl/04-OpenGL-shade-language)|[OpenGL着色语言-book](./00-book/02-opengl/04-OpenGL-shade-language/01-OpenGL-shade-language.pdf)|[OpenGL着色语言-远程](https://github.com/daw42/glslcookbook)<br>[OpenGL着色语言-code-本地](./00-book/02-opengl/04-OpenGL-shade-language/code/glslcookbook)   
+5|[实时渲染](./00-book/02-opengl/05-Real-Time-Rendering-3rd)|[Real-Time-Rendering-3rd提炼总结-book](./00-book/02-opengl/05-Real-Time-Rendering-3rd/01-Real-Time-Rendering-3rd提炼总结.pdf)|对实时渲染书中的内容进行的总结和概括，里面的包含一些常用的算法及实现实例   
 
 #### 1.3 <a name="Vulkan"></a>[Vulkan书籍](./00-book/03-vulkan)   
 

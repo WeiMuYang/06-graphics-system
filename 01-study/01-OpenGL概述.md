@@ -1,10 +1,4 @@
-# OpenGL的概述      
-
-[^ddf]: 东方扥扥 
-
-
-
-
+# OpenGL的概述       
 
 ## 1 什么是OpenGL   
 
